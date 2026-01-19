@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pavitra Prem Kumar 👋
 
-<!--
-**pavitrapk-BI/pavitrapk-BI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BI Analyst | Data Visualisation Specialist | Power BI & SQL Expert
 
-Here are some ideas to get you started:
+I'm a Business Intelligence Analyst with 5+ years of experience transforming complex data into actionable insights. I specialise in building self-service analytics solutions that empower stakeholders to make data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I Do
+
+- 📊 **Power BI Development**: Building interactive dashboards with advanced DAX and data modelling
+- 💾 **SQL Analytics**: Writing complex queries for data extraction and transformation from cloud data warehouses
+- 📈 **Data Visualisation**: Creating compelling visual stories using Power BI, Tableau, and modern BI tools
+- 🔄 **ETL Pipelines**: Designing data workflows using cloud platforms (AWS Redshift, Azure)
+- 🤝 **Stakeholder Engagement**: Translating business requirements into technical solutions
+
+### 🛠️ Technical Stack
+
+**BI & Visualisation:** Power BI (5+ years) • Tableau • Excel (Advanced) • DAX • Power Query
+
+**Data & Analytics:** SQL (Advanced) • Python • Statistical Analysis • Data Modelling
+
+**Cloud & Tools:** AWS (Redshift, S3, Glue) • Azure • Git • dbt • Agile
